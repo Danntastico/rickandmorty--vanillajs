@@ -1,0 +1,15 @@
+{
+  "name": "rickandmorty",
+  "version": "1.0.0",
+  "description": "JS vanilla project that uses the Rick and Morty API made by Danilo Penia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "Danilo Peña",
+  "license": "MIT"
+}
